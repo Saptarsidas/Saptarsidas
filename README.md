@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **BCA,C,JAVA**
 
-- ⚡ Fun fact **cool**
+- ⚡ Fun fact **Lazy programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
