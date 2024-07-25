@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarsidas&label=Profile%20views&color=0e75b6&style=flat" alt="saptarsidas" /> </p>
 
-- 🌱 I’m currently learning **BCA,C,JAVA**
+- 🌱 I’m currently learning **BCA,C,JAVA,PYTHON,**
 
 - ⚡ Fun fact **Lazy programmer**
 
