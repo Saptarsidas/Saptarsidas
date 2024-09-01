@@ -11,8 +11,9 @@ I am currently BCA Final year student at Future Institute of Engineering and Man
 * 🧠  I'm learning AI/ML
 * 💬 Ask me about **HTML,CSS,JS,DJANGO,PYTHON**
 * ⚡  I'm secretly spiderman
-<a href="https://www.github.com/Saptarsidas" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Saptarsidas?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarsidas&label=Profile%20views&color=0e75b6&style=flat" alt="saptarsidas" /> </p>
+
 ### Skills
 
 
