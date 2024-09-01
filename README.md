@@ -1,4 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saptarsi Das
+<img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
+
 ====================================================================================================================================
 
 Laziest Programmer
@@ -10,9 +12,10 @@ I am currently BCA Final year student at Future Institute of Engineering and Man
 * ✉️  You can contact me at [work.saptarsi@gmail.com](mailto:work.saptarsi@gmail.com)
 * 🧠  I'm learning AI/ML
 * ⚡  I'm secretly spiderman
-<img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 <a href="https://www.github.com/Saptarsidas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Saptarsidas?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+<img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
+
 
 ### Skills
 
