@@ -36,4 +36,4 @@ I am currently BCA Final year student at Future Institute of Engineering and Man
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Saptarsidas/music_demo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saptarsidas&repo=music_demo&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Saptarsidas/Music-Freetify-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saptarsidas&repo=music_demo&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
