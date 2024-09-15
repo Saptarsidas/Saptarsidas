@@ -95,6 +95,4 @@ I'm a final-year BCA student at the Future Institute of Engineering and Manageme
 
 - 🌱 Diving deeper into AI/ML algorithms and neural networks.
 - 🚀 Exploring opportunities to collaborate on innovative projects.
-- 📚 Pursuing higher studies in computer science with a focus on AI and data science.
-
 ---
