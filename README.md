@@ -1,16 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saptarsi Das
+
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saptarsi Das
 ====================================================================================================================================
 
-Laziest Programmer
-------------------
+![Programmer GIF](https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif)
+
+## Laziest Programmer
 
 I am currently BCA Final year student at Future Institute of Engineering and Management
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [work.saptarsi@gmail.com](mailto:work.saptarsi@gmail.com)
-* 🧠  I'm learning AI/ML
+* 🌍  I'm based in India
+* ✉️  You can contact me at [work.saptarsi@gmail.com](mailto:work.saptarsi@gmail.com)
+* 🧠  I'm learning AI/ML
 * 💬 Ask me about **HTML,CSS,JS,DJANGO,PYTHON**
-* ⚡  I'm secretly spiderman
+* ⚡  I'm secretly spiderman
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarsidas&label=Profile%20views&color=0e75b6&style=flat" alt="saptarsidas" /> </p>
 
@@ -33,5 +35,4 @@ I am currently BCA Final year student at Future Institute of Engineering and Man
 <a href="http://www.github.com/Saptarsidas"><img src="https://github-readme-stats.vercel.app/api?username=Saptarsidas&show_icons=true&hide=prs,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Saptarsidas's GitHub stats" /></a>
 
 <a href="https://github.com/Saptarsidas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarsidas&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
