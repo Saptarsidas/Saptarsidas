@@ -1,38 +1,101 @@
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hey there, I'm Saptarsi Das!
+</h1>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saptarsi Das
-====================================================================================================================================
+<div align="center">
+  <img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif" width="600" height="300"/>
+</div>
 
-![Programmer GIF](https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif)
+<h3 align="center">🚀 The Laziest Programmer | BCA Final Year Student | AI/ML Enthusiast 🚀</h3>
 
-## Laziest Programmer
-
-I am currently BCA Final year student at Future Institute of Engineering and Management
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [work.saptarsi@gmail.com](mailto:work.saptarsi@gmail.com)
-* 🧠  I'm learning AI/ML
-* 💬 Ask me about **HTML,CSS,JS,DJANGO,PYTHON**
-* ⚡  I'm secretly spiderman
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarsidas&label=Profile%20views&color=0e75b6&style=flat" alt="saptarsidas" /> </p>
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Python+Developer;Web+Designer;Django+Enthusiast;Secretly+Spiderman;Fuelled+by+Coffee+and+Code!" alt="Typing SVG" />
 </p>
 
+---
 
-### Socials
+### 🧑‍💻 About Me :
 
-<p align="left"> <a href="https://www.facebook.com/saptarsi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Saptarsidas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+I'm a final-year BCA student at the Future Institute of Engineering and Management. Passionate about coding, tech, and creating solutions that make life easier. Whether it's building web apps, exploring AI/ML, or designing intuitive GUIs, I'm all in for the challenge!
 
-### Badges
+- 🌍 **Location**: India
+- 🎓 **Currently Learning**: AI/ML and Advanced Django
+- 💬 **Ask me about**: **HTML, CSS, JS, Django, Python, AI/ML**
+- 📫 **Contact**: [work.saptarsi@gmail.com](mailto:work.saptarsi@gmail.com)
+- ⚡ **Fun fact**: I'm secretly Spiderman 🕷️, but let's keep it between us! 🤫
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saptarsidas&label=Profile%20views&color=0e75b6&style=flat" alt="saptarsidas" />
+</div>
 
-<a href="http://www.github.com/Saptarsidas"><img src="https://github-readme-stats.vercel.app/api?username=Saptarsidas&show_icons=true&hide=prs,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Saptarsidas's GitHub stats" /></a>
+---
 
-<a href="https://github.com/Saptarsidas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarsidas&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🛠️ Tech Stack & Tools :
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django" alt="Django"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" alt="Java"/>
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c" alt="C"/>
+  <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" alt="Git"/>
+</div>
+
+---
+
+### 🔥 My GitHub Stats :
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saptarsidas&show_icons=true&theme=radical" alt="Saptarsi's GitHub stats" />
+</div>
+
+---
+
+### 🌐 Connect with Me:
+
+<div align="center">
+  <a href="https://www.facebook.com/saptarsi" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/Saptarsidas" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:work.saptarsi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+### 🛠️ Projects & Contributions:
+
+- 🧙‍♂️ Developed an AI-powered **music recommendation website** using Django and machine learning.
+- 🌐 Created an **offline language translation tool** for multilingual support.
+- 🚀 Part of **TEAM SOUL**, working on cutting-edge projects in the AI/ML and web domains.
+- 📜 Received **three academic certificates** for my contributions to web development and AI/ML projects.
+
+---
+
+### 🏆 Achievements & Badges :
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg" />
+  <img src="https://forthebadge.com/images/badges/approved-by-spiderman.svg" />
+</div>
+
+---
+
+### 🎯 What’s Next?
+
+- 🌱 Diving deeper into AI/ML algorithms and neural networks.
+- 🚀 Exploring opportunities to collaborate on innovative projects.
+- 📚 Pursuing higher studies in computer science with a focus on AI and data science.
+
+---
