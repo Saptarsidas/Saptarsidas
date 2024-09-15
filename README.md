@@ -43,7 +43,6 @@ I'm a final-year BCA student at the Future Institute of Engineering and Manageme
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c" alt="C"/>
   <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" alt="Git"/>
 </div>
 
 ---
