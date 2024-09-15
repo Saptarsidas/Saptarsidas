@@ -73,9 +73,9 @@ I'm a final-year BCA student at the Future Institute of Engineering and Manageme
 
 ### 🛠️ Projects & Contributions:
 
-- 🧙‍♂️ Developed an AI-powered **music recommendation website** using Django and machine learning.
+- 🧙‍♂️ Developed a **music recommendation website** using Django .
 - 🌐 Created an **offline language translation tool** for multilingual support.
-- 🚀 Part of **TEAM SOUL**, working on cutting-edge projects in the AI/ML and web domains.
+- 🚀 Part of **TEAM SOUL**, working on cutting-edge projects in the AI/ML and LLM Models.
 - 📜 Received **three academic certificates** for my contributions to web development and AI/ML projects.
 
 ---
