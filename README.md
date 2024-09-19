@@ -80,16 +80,7 @@ I'm a final-year BCA student at the Future Institute of Engineering and Manageme
 
 ---
 
-### 🏆 Achievements & Badges :
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-python.svg" />
-  <img src="https://forthebadge.com/images/badges/approved-by-spiderman.svg" />
-</div>
-
----
 
 ### 🎯 What’s Next?
 
