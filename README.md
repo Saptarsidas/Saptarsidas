@@ -10,7 +10,7 @@
 <h3 align="center">🚀 The Laziest Programmer | BCA Final Year Student | AI/ML Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Python+Developer;Django+Enthusiast;Secretly+Spiderman;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Python+Developer;Django+Enthusiast;Secretly+Ironman;" alt="Typing SVG" />
 </p>
 
 ---
