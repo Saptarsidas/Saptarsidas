@@ -7,23 +7,22 @@
   <img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif" width="600" height="300"/>
 </div>
 
-<h3 align="center">🚀 The Laziest Programmer | MCA Student | AI/ML Enthusiast 🚀</h3>
+<h3 align="center">🚀 MCA Student | AI/ML Enthusiast | Python & Django Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Python+Developer;Django+Enthusiast;Secretly+Ironman;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Python+Developer;Django+Enthusiast;Learning+ML+one+model+at+a+time;" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me :
 
-I'm a final-year BCA student at the Future Institute of Engineering and Management. Passionate about coding, tech, and creating solutions that make life easier. Whether it's building web apps, exploring AI/ML, or designing intuitive GUIs, I'm all in for the challenge!
+I'm an MCA student at Future Institute of Engineering and Management (under MAKAUT), coming from a BCA background. I like building things that actually work — web apps, ML models, translation tools — and I'm currently going deeper into machine learning through a structured course at Ardent.
 
 - 🌍 **Location**: India
-- 🎓 **Currently Learning**: AI/ML and Advanced Django
-- 💬 **Ask me about**: **HTML, CSS, JS, Django, Python, AI/ML**
-- 📫 **Contact**: [work.saptarsi@gmail.com](mailto:work.saptarsi@gmail.com)
-- ⚡ **Fun fact**: I'm secretly Spiderman 🕷️, but let's keep it between us! 🤫
+- 🎓 **Currently Learning**: Machine Learning (Ardent) and Advanced Django
+- 💬 **Ask me about**: HTML, CSS, JS, Django, Python, AI/ML
+- 📫 **Contact**: [work.saptarsi.das@gmail.com](mailto:work.saptarsi.das@gmail.com)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saptarsidas&label=Profile%20views&color=0e75b6&style=flat" alt="saptarsidas" />
@@ -64,7 +63,7 @@ I'm a final-year BCA student at the Future Institute of Engineering and Manageme
   <a href="https://github.com/Saptarsidas" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:work.saptarsi@gmail.com">
+  <a href="mailto:work.saptarsi.das@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
@@ -73,17 +72,16 @@ I'm a final-year BCA student at the Future Institute of Engineering and Manageme
 
 ### 🛠️ Projects & Contributions:
 
-- 🧙‍♂️ Developed a **music recommendation website** using Django .
-- 🌐 Created an **offline language translation tool** for multilingual support.
-- 🚀 Part of **TEAM SOUL**, working on cutting-edge projects in the AI/ML and LLM Models.
-- 📜 Received **three academic certificates** for my contributions to web development and AI/ML projects.
+- 🖼️ **VisionSpeak** — deep learning image captioning system built with CNN feature extraction and an LSTM/Transformer decoder (Python, TensorFlow).
+- 🌐 **Offline Multi-Language Translator** — text and speech translation app that works without an internet connection (Python, pre-trained language models).
+- 📚 **E-Training Platform** — Django-based e-learning platform for course browsing, enrollment, and progress tracking.
+- 📜 Completed the **Deloitte Australia Data Analytics Job Simulation** (Forage) and **Industrial Training in Python Web Development & ML**; currently pursuing ML training at **Ardent**.
 
 ---
 
+### 🎯 What's Next?
 
+- 🌱 Diving deeper into ML algorithms and neural networks through my Ardent coursework.
+- 🚀 Looking for a developer internship to get hands-on, team-based project experience.
 
-### 🎯 What’s Next?
-
-- 🌱 Diving deeper into AI/ML algorithms and neural networks.
-- 🚀 Exploring opportunities to collaborate on innovative projects.
 ---
